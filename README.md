@@ -1,9 +1,9 @@
 # Lite fakta om mig
 - 👋 Hi, I’m @Carinalak. I live on Ekerö, near Stockholm.
-- 👀 I’m interested in...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in listening to, and recording music. I'm a singer and a guitarplayer and you can find some of my songs on Spotify and YouTube. I also love flowers and gardens and I am a happy owner of an aquarium.
+- 🌱 I’m currently learning to be a good Front End Developer, That's really exciting!
+- 💞️ I’m looking to collaborate on a lot of interesting projects! Right now it's mostly schoolprojects. 
+- 📫 You can reach me on carina.lakosil@gmail.com
 
 <!---
 Carinalak/Carinalak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
