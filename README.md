@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on a lot of interesting projects! Right now it's mostly schoolprojects. 
 - 📫 You can reach me on carina.lakosil@gmail.com
 - 🔌 My linkedIn: https://www.linkedin.com/in/carina-lakosil-219a89295/
+- 👀 Right now it´s pretty empty on my gitHub. That's because I work in my school-gitHub account. I will transfer my work from there as soon as i can.
 
 <!---
 Carinalak/Carinalak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
