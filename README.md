@@ -8,5 +8,3 @@
 - 🔌 My linkedIn: https://www.linkedin.com/in/carina-lakosil-219a89295/
 - 🌸	My Portfolio: https://carinalak.github.io/CarinasPortfolio/
 - ✨ Check out this perfect site: https://lpstuva.onrender.com/
-
---->
